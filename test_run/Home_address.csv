@@ -1,0 +1,3 @@
+PortNumber,AccNumber,LocNumber,IsTenant,BuildingID,CountryCode,Latitude,Longitude,StreetAddress,PostalCode,OccupancyCode,ConstructionCode,LocPerilsCovered,BuildingTIV,OtherTIV,ContentsTIV,BITIV,LocCurrency,OEDVersion
+1,A11111,1,1,1,AU,145.129272,-37.915047,4 WELLINGTON ROAD,3168,1050,5150,OO1,100000,0,0,0,AUD,2.0.0
+,,,,,,,,,,,,,,,,,,

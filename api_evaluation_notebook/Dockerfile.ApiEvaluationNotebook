@@ -1,4 +1,4 @@
-FROM coreoasis/model_worker:latest
+FROM coreoasis/model_worker:2.3.5-debian
 WORKDIR /home/run
 
 COPY ["./requirements.txt", \
